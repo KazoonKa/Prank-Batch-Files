@@ -9,13 +9,6 @@
 - [About](#-about)
 - [Features](#-features)
 - [How to Download](#-how-to-download)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Configuration](#-configuration)
-- [Screenshots](#-screenshots)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Contact](#-contact)
 
 ---
 
