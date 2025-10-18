@@ -4,7 +4,6 @@ color a
 echo ###########################
 echo # K'S DATA BREACHER V 1.1 #
 echo ###########################
-echo 
 pause
 echo initializing systems...
 timeout /t 2 /nobreak >nul
@@ -55,3 +54,4 @@ timeout /t 3 /nobreak >nul
 echo patching done
 echo press any key to exit safely
 timeout /t -1 >nul
+
